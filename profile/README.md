@@ -1,1 +1,1 @@
-# Also Known As - Computer Science
+# Also Known As - CS
